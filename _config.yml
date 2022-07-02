@@ -48,7 +48,7 @@ about_title: About Me
 about_profile_image: images/profile-min.png
 about_content: | 
   Hi, my name's Hubert and I'm a Senior IT Architect. As well as designing software 
-  I also have experience making software and web apps. I have worked at a number of projects gaining teamwork and leadership skills.
+  I also have experience making software and web apps. I have worked on a number of projects gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Java</mark>, <mark>Microservices</mark> and <mark>Cloud</mark>
 
@@ -89,17 +89,17 @@ content:
         description: | #TODO
             Aim of this project was to create online touchpoints for customers.
 
-            We have started with exploring customer needs, company goals and limitations. I prepared series of workshops for
+            We have started with exploring customer needs, company goals and limitations. I prepared a series of workshops for
             technology understanding. Then created **Architectural Drivers** for future architecture and System Discovery Canvases (similar to X-Kom).
             I also helped with Customer Journey Map and roadmap. 
 
-            During deeper analysis of first item from roadmap - eCare - my role was to prepare non functional requirements, logical architecture
-            and help with scoping and functional requirements. Result of this work was gathered in **Service Blueprint**.
+            During deeper analysis of first item from roadmap - eCare - my role was to prepare non-functional requirements, logical architecture
+            and help with scoping and functional requirements. The result of this work was gathered in **Service Blueprint**.
 
-            Next as a <mark>Team Leader</mark> I was responsible for technical setup before regular sprints start. 
+            Next, as a <mark>Team Leader</mark> I was responsible for technical setup before regular sprints start. 
             
-            When agile delivery has started I was supporting scrum team and at the same time defining eCommerce.
-            Together with Business Architect we have conducted series of workshops based on **Story Storming**. As a result
+            When agile delivery has started, I was supporting scrum team and at the same time defining eCommerce.
+            Together with Business Architect we have conducted a series of workshops based on **Story Storming**. As a result
             we provided high level documentation for eCommerce with recommended software, domains with responsibilities and boundaries,
             architecture diagrams, high level requirements and business processes.
 
@@ -134,14 +134,14 @@ content:
         description: | 
           IT **audit** of X-Kom architecture divided into two parts: AS-IS and TO-BE.
 
-          In AS-IS started with existing documentation analysis, we read 100+ documents. Next we have prepared 
+          In AS-IS started with existing documentation analysis, we read 100+ documents. Next, we have prepared 
           anonymous **questionnaire** with more than 70 questions. We have got more than one hundred answers. Then we have series
           of **workshops** (20+). And during 30 days we talked about almost every X-Kom system. We also have additional workshops with
           business, configuration and infrastructure teams. The result of this phase was current architecture in C4 model and a report
           with **rating** for each system in 4 areas: elasticity, scalability, reliability. We have also created **System Model Canvas** (based on Business Model Canvas)
           for each system and ratings heatmap.
           
-          During To-BE we focused on creating a future vision on architecture landscape. Based on a workshops
+          During To-BE we focused on creating a future vision on architecture landscape. Based on workshops
           with business, it and security we have prepared:
           - technical debt report,
           - future architecture vision in C4 model,
@@ -183,12 +183,12 @@ content:
           PWA (Progressive Web App) **selfservice** for UPC clients.
 
           Project was beginning of digital transformation in UPC called DNA (Digital And Agile). Together with UX specialists and analysts we started 
-          with exploring clients problems and needs. We have created Customer Journey Map and scope of MVP. After that
-          in **only 10 weeks** (10 one week sprints) we implemented it and released to production. MVP consists of login functionality, onboarding, 
-          payments list and additional payment information, online payments, notifications, customer profile. In next 4 weeks we added
-          chatbot functionality with custom ui, custom rules and knowledge provided by Stanusch knowledge base. 
+          with exploring clients problems and needs. We have created a Customer Journey Map and scope of MVP. After that
+          in **only 10 weeks** (10 one-week sprints) we implemented it and released to production. MVP consists of login functionality, onboarding, 
+          payments list and additional payment information, online payments, notifications, customer profile. In the next 4 weeks we added
+          chatbot functionality with custom UI, custom rules and knowledge provided by Stanusch knowledge base. 
 
-          After success of this project digital transformation in UPC was extended from our one team to 3 more provided by UPC. 
+          After success of this project, digital transformation in UPC was extended from our one team to 3 more provided by UPC. 
 
           I was <mark>IT Architect</mark>, <mark>Developer</mark> and <mark>Team Leader</mark> in this project.
 
@@ -216,7 +216,7 @@ content:
         link_text: www.fortum.pl
         description: | 
           **Selfcare mobile** application for heat and energy clients. With backend based on microservices hosted on AWS.
-          Second app was "Honorowy Dawca Energii Fortum". It was charity application that was integrated with sports applications.
+          Second app was "Honorowy Dawca Energii Fortum". It was a charity application that was integrated with sports applications.
 
           I was <mark>IT Architect</mark> and <mark>Developer</mark> for the backend part.
 
@@ -257,7 +257,7 @@ content:
           B2B eCommerce portal. It was a **retail store** for big B2B German companies. We were selling phones and accessories.
           Project was done in cooperation with other DTAG teams from Europe.
 
-          At the beginig I was <mark>Solution Architect</mark> responsible for analysis and design of the product. Later during implementation
+          At the beginning I was <mark>Solution Architect</mark> responsible for analysis and design of the product. Later during implementation
           my role was <mark>Team Leader</mark>. I was responsible for developers and product implementation, delivery, performance, release.
           
           Technologies & tools:
@@ -278,7 +278,7 @@ content:
           business rules.
 
           I was <mark>Java/ATG Developer</mark> in this project. But I was also responsible for HLD and LLD (High/Low Level Design), pricing,
-          bugfixing, optimizition, automation, production support, contact with the client.
+          bug fixing, optimization, automation, production support, contact with the client.
 
           Technologies & tools: 
           - **Oracle ATG**
@@ -300,7 +300,7 @@ content:
         sub_title: Finamo
         description: | 
           Back office web application that integrates with Finamo insurance store. Application role was
-          to support backoffice consultants with insurance orders verification and processing. 
+          to support back-office consultants with insurance orders verification and processing. 
 
           Whole UI, storage, integration and business logic was created by me.
 
@@ -323,10 +323,10 @@ content:
         - **Rekom** - Mobile applications for restaurants and bars. App for clients and employees with online payment, reservations,
         recommendations, etc.
         - **Nationale Nederlanden Mobile App** - insurance store. 
-        - **UPC Mobile App** - Selfcare mobile app for telco clients (simillar to Orange Flex).
+        - **UPC Mobile App** - Selfcare mobile app for telco clients (similar to Orange Flex).
         - **RAA (Ralph Appelbaum Associates) - Museum app** - online portal for storytelling and enriching museum expositions.
-        - **UPC Agent Desktop** - web application for callcenter consultants. Intention was to replace existing system, 
-        make consistent ui for all areas, accelerate onboarding of new employees and make their work easier.
+        - **UPC Agent Desktop** - web application for call center consultants. The intention was to replace existing system, 
+        make consistent UI for all areas, accelerate onboarding of new employees and make their work easier.
         - **Osadkowski** - digital transformation wit eCommerce and eCare platform.
         - **X-Kom** - architecture audit.
         - **Plus Pay** - Product definition phase for small bank in mobile application.
@@ -341,36 +341,36 @@ content:
         sub_title: IT Architect - Senior IT Architect
         caption: September 2015 - Present
         description: | 
-            After some time of beeing an expert I decided to go back to my root and work as a team member. Other thing that I wanted to change 
+            After some time of being an expert, I decided to go back to my root and work as a team member. Other thing that I wanted to change 
             was to move from “big products” to something smaller and **open source**. That when I have meet and learned **microservices** and **cloud**.
 
             80% of my time I have spent on projects for Deutsche Telekom, Fortum, UPC, X-Kom and lately Osadkowski.
 
             Rest of my time I have dedicated for **knowledge sharing** and **learning**.
 
-            I have been very active on company level. I have became **lider of Cloud cricle**. My biggest achivments there were creating course 
-            for employyes about microservices and cloud. Convincing, organizing budget and helping with cloud certification on AWS and GCP. 
-            I initiated architects meetings. Make some presentations about microservices and projects that I was involed in. I have been also one 
-            of the person that created Hycom’s Unified Delivery Methodology. That was a guidline with standards about project realisation from 
+            I have been very active on company level. I have become **leader of Cloud circle**. My biggest achievements were creating course 
+            for employees about microservices and cloud. Convincing, organizing budget and helping with cloud certification on AWS and GCP. 
+            I initiated architects meetings. Make some presentations about microservices and projects that I was involved in. I have also been one 
+            of the person that created Hycom’s Unified Delivery Methodology. That was a guideline with standards about project realization from 
             design to delivery.
 
-            I have been involved in few projects with **Technical University of Lodz**. First one Implementacje Przemysłowe was a regular subject 
-            from univeristy (Faculty of Technical Physics, Information Technology and Applied Mathematics) in cooperation with Hycom. I have been part 
-            of it couple of times. Together with students we where making small projects like Facebook chatbot or Confluence plugin. Other initiative 
+            I have been involved in few projects with **Technical University of Lodz**. First one "Implementacje Przemysłowe" was a regular subject 
+            from university (Faculty of Technical Physics, Information Technology and Applied Mathematics) in cooperation with Hycom. I have been part 
+            of it a couple of times. Together with students we were making small projects like Facebook chatbot or Confluence plugin. Other initiative 
             where together with students council (Faculty of Electrical, Electronic, Computer and Control Engineering) we have prepared an on site 
-            programming course. Topic of the course was: "Hy!Class: Tworzenie mikroserwisów z wykorzystaniem Spring Cloud oraz Netflix OSS".
+            programming course. The topic of the course was: "Hy!Class: Tworzenie mikroserwisów z wykorzystaniem Spring Cloud oraz Netflix OSS".
 
             Together with my colleague had a presentation on **"Akademickie Targi Pracy"**. We have talked about TDD and the topic of our presentation was: 
             "Developer nie SAPER, myli się nie raz".
 
-            Next there was workshop for **"Młodzi w Łodzi"** with topic "Hy!Class: Zwinne wytwarzanie oprogramowania". It was interactive workshop where 
-            I was teaching students about agile and scrum. Durig the workshop we have played a lot of games like Agile Values Puzzle Game, 
-            Marshmallow challenge, Airplains production.
+            Next there was workshop for **"Młodzi w Łodzi"** with topic "Hy!Class: Zwinne wytwarzanie oprogramowania". It was an interactive workshop where 
+            I was teaching students about agile and scrum. During the workshop we have played a lot of games like Agile Values Puzzle Game, 
+            Marshmallow challenge, Airplanes production.
 
-            My last public presentation was on **JUG** (Java User Group) in Toruń where together with my collgue were talking about it architect role. 
+            My last public presentation was on **JUG** (Java User Group) in Toruń where together with my colleague we were talking about it architect role. 
             Topic of presentation was "Hy!Class: Co robi architekt?".
 
-            Last but not least I have been also a guardian for few people. I was responisble for their personal development and carier path.
+            Last but not least, I have also been a guardian for a few people. I was responsible for their personal development and career path.
 
       - layout: left
         title: Deutsche Telekom 
@@ -379,15 +379,15 @@ content:
         link: https://www.telekom.com/en
         link_text: www.telekom.com
         description: |
-          Next change in my career was to move from development to consultant/expert role.
+          The next change in my career was to move from development to consultant/expert role.
           
-          At the first 6 month I was working full time in Germany/Bonn at Deutsche Telekom headquater. 
-          Later I was working partially in Germany/Bonn, partially in Poland/Lodz.
+          At the first 6 months I was working full time in Germany/Bonn at Deutsche Telekom headquarter. 
+          Later I was working partially in Germany/Bonn, partially in Poland/Łódź.
           
           I was working with people from all over the world. Mostly I was involved in 
           creating design guidelines for T-Mobile online stores in Europe based on Oracle ATG. I was also 
           participating in meetings and presentations, researching and documenting application integrations, 
-          comparing products and technologies: ATG vs Hybris, Portlets vs. Servlets, etc. In general I was
+          comparing products and technologies: ATG vs Hybris, Portlets vs. Servlets, etc. In general, I was
           Oracle **ATG and integration expert** cooperating with many Deutsche Telekom teams and departments.
 
           During this time I was working with Oracle ATG, Sitebuilder from Spindrift, Oracle Knowledge, CoreMedia,
@@ -404,27 +404,27 @@ content:
         sub_title: Trainee - IT Architect
         caption: April 2008 - August 2013
         description: | 
-            I started my real IT developer journey as a trainee in AMG.net. I was one of the **best students** and during first phase of training I 
-            understand what this coding is all about. Second phase of training was work on real project, in my case it was Orange portal.
+            I started my real IT developer journey as a trainee in AMG.net. I was one of the **best students** and during the first phase of training I 
+            understand what this coding is all about. The second phase of training was work on a real project, in my case it was Orange portal.
 
-            After training I’ve stayed in AMG.net. Very fast I was assigned to “Functional Expansions” as projects **technical team leader**. 
-            Team was small from 2 to 5 people. It was rather small, recurring projects with changes to small to put them in big release. 
-            Usually development took less than couple of days. Together with my colleague we have manage to make this project as a role model for other. 
+            After training, I’ve stayed in AMG.net. Very fast, I was assigned to “Functional Expansions” as projects **technical team leader**. 
+            Team was small from 2 to 5 people. It was rather small, recurring projects with changes too small to put them in big release. 
+            Usually, development took less than a couple of days. Together with my colleague, we have manage to make this project as a role model for others. 
             We manage to **make it profitable, good documented and well communicated**.
 
             During that time I was responsible for almost whole delivery process. From design, develop to delivery preparation. 
             My role was to prepare pricing for the change, document, implement, test, merge it and prepare deployment instructions. 
             I was also responsible for maintaining development environment.
 
-            After few years I’ve decided to move to something bigger.
+            After a few years I’ve decided to move to something bigger.
 
-            I’ve stayed in Orange but moved to big releases. I was involved in **eCommerce** part. Most of my responsibilities were 
-            the same but on much bigger scale. During that years I was also responsible for **code refactoring, performance optimization, 
+            I’ve stayed in Orange, but moved to big releases. I was involved in **eCommerce** part. Most of my responsibilities were 
+            the same but on a much bigger scale. During that years I was also responsible for **code refactoring, performance optimization, 
             source code quality, third-party audits analysis, big commerce architecture modifications**. From time to time I’ve also helped 
             in other regions of Orange, e.g: nju mobile eShop.
 
-            Apart from Orange I was also very active on company level. I was participating in **offering processes, 
-            employee and students trainings**. I was involved in **internal projects** also. I have crated and administrated 
+            Apart from Orange, I was also very active on company level. I was participating in **offering processes, 
+            employee and students trainings**. I was also involved in **internal projects**. I have crated and administrated 
             plugins for Confluence and Crucible from Atlassian stack.
 
       - layout: left
@@ -432,7 +432,7 @@ content:
         sub_title: Full Stack Developer
         caption: June 2009 - February 2010
         description: | 
-            I was **one-man army** responsible for creating web application. Working remote and directly contacting 
+            I was a **one-man army** responsible for creating a web application. Working remote and directly contacting 
             with customer. 
 
             I was responsible for whole delivery process: design, develop and delivery.
@@ -456,7 +456,7 @@ content:
         sub_title: Helpdesk Consultant
         caption: July 2006 - December 2006
         description: | 
-            Consultant at HelpDesk department for big polish teleco client: **Telekomunikacja Polska (TP S.A.)**.
+            Consultant at HelpDesk department for big polish telco client: **Telekomunikacja Polska (TP S.A.)**.
 
             Responsible for mass support request handling.
 
@@ -496,9 +496,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
-      Alongside my interests in software engineering some of my other interests and hobbies are:
+      Alongside my interests in software engineering, some of my other interests and hobbies are:
       - My husky dog training
-      - Treking and hiking
+      - Trekking and hiking
       - DIY
 
 # Footer
