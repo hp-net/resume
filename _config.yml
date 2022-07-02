@@ -7,16 +7,11 @@ version: 2
 
 # Personal info
 name: Hubert Pruszyński
+author: Hubert Pruszyński
 title: IT Expert, Solution & Software Architect, Developer
 email: hubert@hp.net.pl
-description: Hubert Pruszyński Resume
-author: Hubert Pruszyński
-image: /images/profile-min.png
 locale: en_US
 # website: hp.net.pl
-
-seo:
-  type: Person
 
 # Dark Mode (true/false/never)
 darkmode: never
