@@ -9,3 +9,9 @@
 .layout .details {
     justify-content: flex-start;
 }
+
+@media print {
+    .col-md-3.col-print-12 {
+        width: 33.33333333%;
+    }
+}
