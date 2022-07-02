@@ -1,0 +1,531 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Hubert Pruszyński
+title: IT Expert, Solution & Software Architect, Developer
+email: hubert@hp.net.pl
+website: hp.net.pl
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+# twitter_username: facespics
+github_username:  hp-net
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: hubertpruszynski
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: Resume
+  icon: fas fa-address-card
+  url: https://hp.net.pl/resume/resume.pdf
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+gtm: "GTM-WC84R36"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | 
+  Hi, my name's Hubert and I'm a Senior IT Architect. As well as designing software 
+  I also have experience making software and web apps. I have worked at a number of projects gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>Java</mark>, <mark>Microservices</mark> and <mark>Cloud</mark>
+
+content:
+  - title: Work in progress
+    layout: list
+    content:
+      - layout: top-middle
+        title: 
+        description: | 
+          - Writing a book with my friend for people that want to start their career in IT 
+          - Mentoring program at Hycom
+
+  - title: Projects 
+    layout: list 
+    content:
+      - layout: left
+        title: Homebridge Nibe
+        caption: April 2022 - Present
+        sub_title: Personal project
+        link: https://github.com/hp-net/homebridge-nibe
+        link_text: github.com/hp-net/homebridge-nibe
+        description: | 
+          My first **open source** project. I already get a few cups of coffee ($) from people who liked it.
+
+          My homebridge plugin retrieves data from a Nibe heat pump from Nibe Uplink. 
+          Homebridge allows you to integrate with smart home devices that do not natively support Apple HomeKit. 
+          
+          Technologies & tools:
+          - **Typescript**
+          - GitHub
+          - Gulp
+          - Jest
+          - Homebridge
+          - Node.js, npm
+
+      - layout: left
+        title: Offering
+        caption: April 2008 - Present
+        description: | 
+          - INWI Maroko - participation in the tender preparation, demo store creation and presentation in front of client in Maroko.
+          Scope of offer was telco store based on Oracle ATG.
+          - Poczta Polska Usługi Cyfrowe - participation in the tender preparation.
+          Scope of offer was store based on Oracle ATG.
+          - InterCars - new modern retail store based on Oracle ATG.
+          - UPC Selfcare - new selfcare portal for UPC based on microservices.
+          - Rekom - Mobile applications for restaurants and bars. App for clients and employees with online payment, reservations,
+          recommendations, etc.
+          - Nationale Nederlanden Mobile App
+          - UPC Mobile App - Selfcare mobile app for telco clients (simillar to Orange Flex).
+          - RAA (Ralph Appelbaum Associates) - Museum app - online portal for storytelling and enriching museum expositions.
+          - UPC Agent Desktop - web application for callcenter consultants. Intention was to replace existing system, 
+          make consistent ui for all areas, accelerate onboarding of new employees and make their work easier.
+          - Osadkowski - digital transformation wit eCommerce and eCare platform.
+          - X-Kom - architecture audit.
+          - Plus Pay - Product definition phase for small bank in mobile application.
+
+      - layout: left
+        title: Osadkowski eCommerce Platform
+        caption: May 2021 - Present
+        sub_title: Osadkowski
+        description: | #TODO
+
+          Warsztat definiowanie celów
+uwzględnieniem perspektywy klienta, organizacji oraz technologicznej 
+
+Opracowanie Map Podróży klienta
+
+
+roadmapa
+
+Przeprowadzenie warsztatów technologicznych
+  drivery architektury docelowej
+  system discovery canvas
+Opracowanie wysokopoziomowej architektury całego ekosystemu
+Opracowanie zakresu MVP
+  przeprowadzanie warsztatu wizji rozwiązania
+  opracowanie wymagań funkcjonalnych i niefunkcjonalnych
+  opracowanie architektury logicznej
+  podsumowanie zakresu w formie Service Blueprint
+
+tech setup + implementacja mvp ecare
+
+
+commerce: 
+story storming
+
+
+          Tasks:
+          *technical consultant responsible for architecture and scope of new commerce system
+
+          - SCRUM
+          - Jira / Confluence
+          Mural
+          java 17
+          dynamics, comarch erp xl
+          next js
+          nest js
+          spring Cloud
+          redis postgres mongo
+          keycloak
+          strapi
+          azure functions
+          aks, docker
+          azure cognitive search
+          pulumi
+          argo cd
+          azure devops
+          applications insights
+          azure service bus
+
+      - layout: left
+        title: X-Kom audit
+        caption: May 2021 - March 2022
+        sub_title: X-Kom
+        link: https://www.x-kom.pl
+        link_text: www.x-kom.pl
+        description: | 
+          IT **audit** of X-Kom architecture divided into two parts: AS-IS and TO-BE.
+
+          In AS-IS started with existing documentation analysis, we read 100+ documents. Next we have prepared 
+          anonymous **questionnaire** with more than 70 questions. We have got more than one hundred answers. Then we have series
+          of **workshops** (20+). And during 30 days we talked about almost every X-Kom system. We also have additional workshops with
+          business, configuration and infrastructure teams. The result of this phase was current architecture in C4 model and a report
+          with **rating** for each system in 4 areas: elasticity, scalability, reliability. We have also created **System Model Canvas** (based on Business Model Canvas)
+          for each system and ratings heatmap.
+          
+          During To-BE we focused on creating a future vision on architecture landscape. Based on a workshops
+          with business, it and security we have prepared:
+          - technical debt report,
+          - future architecture vision in C4 model,
+          - recommendations with roadmap.  
+
+          I was <mark>IT Expert</mark> in this project. Team consist of Business Architect, Senior Architect and me. 
+
+          Technologies & tools:
+          - **Typescript** 
+          - **ClickUP**
+          - Confluence
+          - **C4 Model**, Structurizr 
+          - **Node.js**
+          - Html, JS, CSS
+          - Gitlab, Gitlab pipelines
+          - Qualtrics
+          - Miro
+
+      - layout: left
+        title: IT Expert for UPC
+        caption: January 2021 - April 2021
+        sub_title: UPC
+        description: |
+          I was helping UPC as <mark>Enterprise Architect</mark>. I was involved in:
+          - Gamfi setup - gamification platform for employees
+          - Anthos migration - based on selfcare knowledge I was helping with other projects migration
+          - Open TM Forum API - I was helping with API design for deep/generic systems
+          - Selfcare changes analysis - in cooperation with Liberty Global I was designing integration with corporate infrastructure
+          - IT Architecture Board
+          - Centralna Baza Pracowników - I was helping with initial analysis for this project 
+
+      - layout: left
+        title: UPC Selfcare MVP
+        caption: July 2019 - January 2021
+        sub_title: UPC
+        link: https://selfcare.upc.pl/login
+        link_text: selfcare.upc.pl
+        description: | 
+          PWA (Progressive Web App) **selfservice** for UPC clients.
+
+          Project was beginning of digital transformation in UPC called DNA (Digital And Agile). Together with UX specialists and analysts we started 
+          with exploring clients problems and needs. We have created Customer Journey Map and scope of MVP. After that
+          in **only 10 weeks** (10 one week sprints) we implemented it and released to production. MVP consists of login functionality, onboarding, 
+          payments list and additional payment information, online payments, notifications, customer profile. In next 4 weeks we added
+          chatbot functionality with custom ui, custom rules and knowledge provided by Stanusch knowledge base. 
+
+          After success of this project digital transformation in UPC was extended from our one team to 3 more provided by UPC. 
+
+          I was <mark>IT architect</mark>, <mark>developer</mark> and <mark>team leader</mark> in this project.
+
+          Technologies & tools:
+          - Google Anthos, **Kubernetes**, **Docker**
+          - Kemp Load Balancer
+          - Spring Boot
+          - React.js
+          - Microservices/Netflix OSS
+          - Spring Boot Admin
+          - Swagger
+          - **RedisDB**, Oracle DB
+          - RabbitMQ
+          - Java 11
+          - Firebase
+          - SCRUM
+          - Jira / Confluence
+          - Gitlab, Gitlab pipelines
+
+      - layout: left
+        title: Moje Fortum & Honorowy Dawca Energii Fortum
+        caption: November 2017 - July 2019
+        sub_title: Fortum
+        link: https://www.fortum.pl/moje-fortum
+        link_text: www.fortum.pl
+        description: | 
+          **Selfcare mobile** application for heat and energy clients. With backend based on microservices hosted on AWS.
+          Second app was "Honorowy Dawca Energii Fortum". It was charity application that was integrated with sports applications.
+
+          I was <mark>IT Architect</mark> and <mark>developer</mark> for the backend part.
+
+          Technologies & tools:
+          - **Amazon ECS** (Elastic Container Service)
+          - Spring Boot
+          - React Native
+          - Microservices/**Netflix OSS**
+          - Spring Boot Admin
+          - Swagger
+          - **RabbitMQ**
+          - integration with external services: Strava, Runkeeper, Garmin, Firebase, OpenWeatherMaps, Airly
+          - SCRUM
+          - Jira / Confluence
+          - Gitlab, Gitlab pipelines, 
+ 
+      - layout: left
+        title: Bestellcenter
+        caption: September 2016 - November 2016
+        sub_title: Deutsche Telekom
+        description: | 
+          B2B eCommerce portal. It was a **telco** store for B2B German clients.
+
+          I was <mark>solution architect</mark> and <mark>Java developer</mark> in this project.
+          
+          Technologies & tools:
+          - Oracle ATG
+          - Oracle Endeca
+          - **Spring Boot**
+          - Activity
+          - Jira / Confluence
+
+      - layout: left
+        title: Parntershop
+        caption: September 2015 - September 2016
+        sub_title: Deutsche Telekom
+        description: | 
+          B2B eCommerce portal. It was a **retail store** for big B2B German companies. We were selling phones and accessories.
+          Project was done in cooperation with other DTAG teams from Europe.
+
+          At the beginig I was <mark>solution architect</mark> responsible for analysis and design of the product. Later during implementation
+          my role was <mark>team leader</mark>. I was responsible for developers and product implementation, delivery, performance, release.
+          
+          Technologies & tools:
+          - Oracle ATG
+          - **Oracle Endeca**
+          - SAP
+          - Jira / Confluence
+
+      - layout: left
+        title: Multi Access Portal
+        caption: April 2008 - August 2013
+        sub_title: Orange
+        link: https://orange.pl
+        link_text: orange.pl
+        description: | 
+          eCommerce for **telco** offering, personalized proposition for existing customers, eCare and portal.
+          A lot of complex imports and integrations, huge product catalog with many relationships and very, very complex 
+          business rules.
+
+          I was <mark>Java/ATG developer</mark> in this project. But I was also responsible for HLD and LLD (High/Low Level Design), pricing,
+          bugfixing, optimizition, automation, production support, contact with the client.
+
+          Technologies & tools: 
+          - **Oracle ATG**
+          - Java
+          - DynaXML CMS
+          - HTML, CSS, JS, jQuery, prototype js
+          - Ant
+          - Hudson
+          - MemCached, Couchbase
+          - JBoss
+          - svn, svnmerge.py
+          - **JRebel**
+          - Web Services
+          - Oracle DB
+
+      - layout: left
+        title: finamodirect.pl - backoffice web application
+        caption: June 2009 - February 2010
+        sub_title: Finamo
+        description: | 
+          Back office web application that integrates with Finamo insurance store. Application role was
+          to support backoffice consultants with insurance orders verification and processing. 
+
+          Whole UI, storage, integration and business logic was created by me.
+
+          Technologies & tools: 
+          - Java
+          - **Spring**
+          - Hibernate, MySQL
+          - HTML, css, js, jQuery
+          - Web Service integration
+
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Hycom
+        link: https://hycom.digital
+        link_text: hycom.digital
+        sub_title: IT Architect - Senior IT Architect
+        caption: September 2015 - Present
+        description: | 
+            After some time of beeing an expert I decided to go back to my root and work as a team member. Other thing that I wanted to change 
+            was to move from “big products” to something smaller and **open source**. That when I have meet and learned **microservices** and **cloud**.
+
+            80% of my time I have spent on projects for Deutsche Telekom, Fortum, UPC, X-Kom and lately Osadkowski.
+
+            Rest of my time I have dedicated for **knowledge sharing** and **learning**.
+
+            I have been very active on company level. I have became **lider of Cloud cricle**. My biggest achivments there were creating course 
+            for employyes about microservices and cloud. Convincing, organizing budget and helping with cloud certification on AWS and GCP. 
+            I initiated architects meetings. Make some presentations about microservices and projects that I was involed in. I have been also one 
+            of the person that created Hycom’s Unified Delivery Methodology. That was a guidline with standards about project realisation from 
+            design to delivery.
+
+            I have been involved in few projects with **Technical University of Lodz**. First one Implementacje Przemysłowe was a regular subject 
+            from univeristy (Faculty of Technical Physics, Information Technology and Applied Mathematics) in cooperation with Hycom. I have been part 
+            of it couple of times. Together with students we where making small projects like Facebook chatbot or Confluence plugin. Other initiative 
+            where together with students council (Faculty of Electrical, Electronic, Computer and Control Engineering) we have prepared an on site 
+            programming course. Topic of the course was: "Hy!Class: Tworzenie mikroserwisów z wykorzystaniem Spring Cloud oraz Netflix OSS".
+
+            Together with my colleague had a presentation on **"Akademickie Targi Pracy"**. We have talked about TDD and the topic of our presentation was: 
+            "Developer nie SAPER, myli się nie raz".
+
+            Next there was workshop for **"Młodzi w Łodzi"** with topic "Hy!Class: Zwinne wytwarzanie oprogramowania". It was interactive workshop where 
+            I was teaching students about agile and scrum. Durig the workshop we have played a lot of games like Agile Values Puzzle Game, 
+            Marshmallow challenge, Airplains production.
+
+            My last public presentation was on **JUG** (Java User Group) in Toruń where together with my collgue were talking about it architect role. 
+            Topic of presentation was "Hy!Class: Co robi architekt?".
+
+            Last but not least I have been also a guardian for few people. I was responisble for their personal development and carier path.
+
+      - layout: left
+        title: Deutsche Telekom 
+        sub_title: IT Expert - outsorcing from AMG.net
+        caption: August 2013 - August 2015
+        link: https://www.telekom.com/en
+        link_text: www.telekom.com
+        description: |
+          Next change in my career was to move from development to consultant/expert role.
+          
+          At the first 6 month I was working full time in Germany/Bonn at Deutsche Telekom headquater. 
+          Later I was working partially in Germany/Bonn, partially in Poland/Lodz.
+          
+          I was working with people from all over the world. Mostly I was involved in 
+          creating design guidelines for T-Mobile online stores in Europe based on Oracle ATG. I was also 
+          participating in meetings and presentations, researching and documenting application integrations, 
+          comparing products and technologies: ATG vs Hybris, Portlets vs. Servlets, etc. In general I was
+          Oracle **ATG and integration expert** cooperating with many Deutsche Telekom teams and departments.
+
+          During this time I was working with Oracle ATG, Sitebuilder from Spindrift, Oracle Knowledge, CoreMedia,
+          Siebel products.
+
+          I was involved in projects: 
+          - eCompany - ATG - Siebel integration POC
+          - eGarage - digital transformation project 
+          - T-mobile PL (t-mobile.pl) - polish telco store
+          - T-mobile NatCo's in Europe - national companies initiatives
+
+      - layout: left
+        title: AMG.net, Bull, Atos
+        sub_title: Trainee - IT Architect
+        caption: April 2008 - August 2013
+        description: | 
+            I started my real IT developer journey as a trainee in AMG.net. I was one of the **best students** and during first phase of training I 
+            understand what this coding is all about. Second phase of training was work on real project, in my case it was Orange portal.
+
+            After training I’ve stayed in AMG.net. Very fast I was assigned to “Functional Expansions” as projects **technical team leader**. 
+            Team was small from 2 to 5 people. It was rather small, recurring projects with changes to small to put them in big release. 
+            Usually development took less than couple of days. Together with my colleague we have manage to make this project as a role model for other. 
+            We manage to **make it profitable, good documented and well communicated**.
+
+            During that time I was responsible for almost whole delivery process. From design, develop to delivery preparation. 
+            My role was to prepare pricing for the change, document, implement, test, merge it and prepare deployment instructions. 
+            I was also responsible for maintaining development environment.
+
+            After few years I’ve decided to move to something bigger.
+
+            I’ve stayed in Orange but moved to big releases. I was involved in **eCommerce** part. Most of my responsibilities were 
+            the same but on much bigger scale. During that years I was also responsible for **code refactoring, performance optimization, 
+            source code quality, third-party audits analysis, big commerce architecture modifications**. From time to time I’ve also helped 
+            in other regions of Orange, e.g: nju mobile eShop.
+
+            Apart from Orange I was also very active on company level. I was participating in **offering processes, 
+            employee and students trainings**. I was involved in **internal projects** also. I have crated and administrated 
+            plugins for Confluence and Crucible from Atlassian stack.
+
+      - layout: left
+        title: Finamo
+        sub_title: Full Stack Developer
+        caption: June 2009 - February 2010
+        description: | 
+            I was **one-man army** responsible for creating web application. Working remote and directly contacting 
+            with customer. 
+
+            I was responsible for whole delivery process: design, develop and delivery.
+
+      - layout: left
+        title: Zakład Fotografii Cyfrowej Andrzej Sierakowski w Gostyninie
+        sub_title: IT Specialist
+        caption: July 2007 - October 2007 
+        description: | 
+            Responsible for:
+            - digital image processing
+            - computers maintenance and administration
+            - developing photos
+            - photos printing
+
+            Technologies & tools: 
+            - Photoshop
+
+      - layout: left
+        title: Computer Service Support
+        sub_title: Helpdesk Consultant
+        caption: July 2006 - December 2006
+        description: | 
+            Consultant at HelpDesk department for big polish teleco client: **Telekomunikacja Polska (TP S.A.)**.
+
+            Responsible for mass support request handling.
+
+  - title: Certifications
+    layout: text
+    content: | 
+      - **AWS Certified Cloud Practitioner**
+        Issued Oct 2020 · Expires Oct 2023
+      - **Train the TrainerTrain the Trainer - Sages**
+        Issued Oct 2018 · No Expiration Date
+      - **Oracle Certified Associate, Java SE 7 Programmer (1Z0-803)**
+        Issued Nov 2013 · No Expiration
+      - **Oracle ATG Web Commerce 10 Implementation Developer Essentials (1Z0-510)**
+        Issued Jul 2012 · No Expiration
+      - **ITA101 - Databases (Microsoft IT Academy Programme)**
+        Issued Jan 2012 · No Expiration
+      - **Oracle ATG Web Commerce 10 PreSales Specialist Assessment**
+        Issued Jan 2012 · No Expiration
+      - **Oracle ATG Web Commerce 10 Sales Specialist Assessment**
+        Issued Jan 2012 · No Expiration
+
+  - title: Education
+    layout: text
+    content: |
+      - 2005 - 2013 **Lodz University of TechnologyLodz University of Technology**
+
+        Engineer's degree, Software Engineering and Data AnalysisEngineer's degree, Software Engineering and Data Analysis
+        
+        Activities and societies: Member and first president of "Koffeine" scientific club.
+
+  - title: Languages
+    layout: text
+    content: |
+      - **EnglishEnglish** - professional working proficiency
+      - **PolishPolish** - native proficiency
+
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Alongside my interests in software engineering some of my other interests and hobbies are:
+      - My husky dog training
+      - Treking and hiking
+      - DIY
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
