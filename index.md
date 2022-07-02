@@ -7,8 +7,13 @@
 #
 layout: default
 image: /images/profile-social.png
-description: Resume
-title: Hubert Pruszyński - IT Expert, Solution & Software Architect, Developer
+description: |
+    Hi, my name's Hubert and I'm a Senior IT Architect. As well as designing software 
+    I also have experience making software and web apps. I have worked on a number of projects gaining teamwork and leadership skills.
+
+    I am most skilled in: Java, Microservices and Cloud.
+
+title: Hubert Pruszyński - IT Expert, Architect and Developer
 seo:
     type: Person
 ---
