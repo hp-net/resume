@@ -9,7 +9,7 @@ version: 2
 name: Hubert Pruszyński
 title: IT Expert, Solution & Software Architect, Developer
 email: hubert@hp.net.pl
-website: hp.net.pl
+# website: hp.net.pl
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -33,7 +33,7 @@ linkedin_username: hubertpruszynski
 additional_links:
 - title: Resume
   icon: fas fa-address-card
-  url: https://hp.net.pl/resume/resume.pdf
+  url: https://resume.hp.net.pl/resume.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,7 +45,7 @@ gtm: "GTM-WC84R36"
 # google_analytics: "UA-00000000-0"
 
 about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile-min.png
 about_content: | 
   Hi, my name's Hubert and I'm a Senior IT Architect. As well as designing software 
   I also have experience making software and web apps. I have worked at a number of projects gaining teamwork and leadership skills.
@@ -54,11 +54,8 @@ about_content: |
 
 content:
   - title: Work in progress
-    layout: list
-    content:
-      - layout: top-middle
-        title: 
-        description: | 
+    layout: text
+    content: | 
           - Writing a book with my friend for people that want to start their career in IT 
           - Mentoring program at Hycom
 
@@ -86,79 +83,47 @@ content:
           - Node.js, npm
 
       - layout: left
-        title: Offering
-        caption: April 2008 - Present
-        description: | 
-          - INWI Maroko - participation in the tender preparation, demo store creation and presentation in front of client in Maroko.
-          Scope of offer was telco store based on Oracle ATG.
-          - Poczta Polska Usługi Cyfrowe - participation in the tender preparation.
-          Scope of offer was store based on Oracle ATG.
-          - InterCars - new modern retail store based on Oracle ATG.
-          - UPC Selfcare - new selfcare portal for UPC based on microservices.
-          - Rekom - Mobile applications for restaurants and bars. App for clients and employees with online payment, reservations,
-          recommendations, etc.
-          - Nationale Nederlanden Mobile App
-          - UPC Mobile App - Selfcare mobile app for telco clients (simillar to Orange Flex).
-          - RAA (Ralph Appelbaum Associates) - Museum app - online portal for storytelling and enriching museum expositions.
-          - UPC Agent Desktop - web application for callcenter consultants. Intention was to replace existing system, 
-          make consistent ui for all areas, accelerate onboarding of new employees and make their work easier.
-          - Osadkowski - digital transformation wit eCommerce and eCare platform.
-          - X-Kom - architecture audit.
-          - Plus Pay - Product definition phase for small bank in mobile application.
-
-      - layout: left
         title: Osadkowski eCommerce Platform
         caption: May 2021 - Present
         sub_title: Osadkowski
         description: | #TODO
+            Aim of this project was to create online touchpoints for customers.
 
-          Warsztat definiowanie celów
-uwzględnieniem perspektywy klienta, organizacji oraz technologicznej 
+            We have started with exploring customer needs, company goals and limitations. I prepared series of workshops for
+            technology understanding. Then created **Architectural Drivers** for future architecture and System Discovery Canvases (similar to X-Kom).
+            I also helped with Customer Journey Map and roadmap. 
 
-Opracowanie Map Podróży klienta
+            During deeper analysis of first item from roadmap - eCare - my role was to prepare non functional requirements, logical architecture
+            and help with scoping and functional requirements. Result of this work was gathered in **Service Blueprint**.
 
+            Next as a <mark>Team Leader</mark> I was responsible for technical setup before regular sprints start. 
+            
+            When agile delivery has started I was supporting scrum team and at the same time defining eCommerce.
+            Together with Business Architect we have conducted series of workshops based on **Story Storming**. As a result
+            we provided high level documentation for eCommerce with recommended software, domains with responsibilities and boundaries,
+            architecture diagrams, high level requirements and business processes.
 
-roadmapa
-
-Przeprowadzenie warsztatów technologicznych
-  drivery architektury docelowej
-  system discovery canvas
-Opracowanie wysokopoziomowej architektury całego ekosystemu
-Opracowanie zakresu MVP
-  przeprowadzanie warsztatu wizji rozwiązania
-  opracowanie wymagań funkcjonalnych i niefunkcjonalnych
-  opracowanie architektury logicznej
-  podsumowanie zakresu w formie Service Blueprint
-
-tech setup + implementacja mvp ecare
-
-
-commerce: 
-story storming
-
-
-          Tasks:
-          *technical consultant responsible for architecture and scope of new commerce system
-
-          - SCRUM
-          - Jira / Confluence
-          Mural
-          java 17
-          dynamics, comarch erp xl
-          next js
-          nest js
-          spring Cloud
-          redis postgres mongo
-          keycloak
-          strapi
-          azure functions
-          aks, docker
-          azure cognitive search
-          pulumi
-          argo cd
-          azure devops
-          applications insights
-          azure service bus
+            My role in this project was <mark>Solution Architect</mark>.  
+          
+            Technologies & tools:
+            - SCRUM
+            - Jira / Confluence
+            - Mural
+            - **Java 17**
+            - Microsoft Dynamics 365 and Comarch ERP XL integration
+            - Next.js
+            - Nest.js
+            - Spring Cloud
+            - RedisDB, PostgreSQL, MongoDB, Azure Blob Storage
+            - **Keycloak**
+            - **Strapi**
+            - **Azure Functions**, AKS (Azure Kubernetes Service)
+            - Azure Cognitive Search
+            - **Pulumi**
+            - Argo CD
+            - Azure DevOps
+            - Azure Applications Insights
+            - Azure Service Bus
 
       - layout: left
         title: X-Kom audit
@@ -225,12 +190,12 @@ story storming
 
           After success of this project digital transformation in UPC was extended from our one team to 3 more provided by UPC. 
 
-          I was <mark>IT architect</mark>, <mark>developer</mark> and <mark>team leader</mark> in this project.
+          I was <mark>IT Architect</mark>, <mark>Developer</mark> and <mark>Team Leader</mark> in this project.
 
           Technologies & tools:
           - Google Anthos, **Kubernetes**, **Docker**
           - Kemp Load Balancer
-          - Spring Boot
+          - Spring Cloud
           - React.js
           - Microservices/Netflix OSS
           - Spring Boot Admin
@@ -253,7 +218,7 @@ story storming
           **Selfcare mobile** application for heat and energy clients. With backend based on microservices hosted on AWS.
           Second app was "Honorowy Dawca Energii Fortum". It was charity application that was integrated with sports applications.
 
-          I was <mark>IT Architect</mark> and <mark>developer</mark> for the backend part.
+          I was <mark>IT Architect</mark> and <mark>Developer</mark> for the backend part.
 
           Technologies & tools:
           - **Amazon ECS** (Elastic Container Service)
@@ -275,7 +240,7 @@ story storming
         description: | 
           B2B eCommerce portal. It was a **telco** store for B2B German clients.
 
-          I was <mark>solution architect</mark> and <mark>Java developer</mark> in this project.
+          I was <mark>Solution Architect</mark> and <mark>Java Developer</mark> in this project.
           
           Technologies & tools:
           - Oracle ATG
@@ -292,8 +257,8 @@ story storming
           B2B eCommerce portal. It was a **retail store** for big B2B German companies. We were selling phones and accessories.
           Project was done in cooperation with other DTAG teams from Europe.
 
-          At the beginig I was <mark>solution architect</mark> responsible for analysis and design of the product. Later during implementation
-          my role was <mark>team leader</mark>. I was responsible for developers and product implementation, delivery, performance, release.
+          At the beginig I was <mark>Solution Architect</mark> responsible for analysis and design of the product. Later during implementation
+          my role was <mark>Team Leader</mark>. I was responsible for developers and product implementation, delivery, performance, release.
           
           Technologies & tools:
           - Oracle ATG
@@ -312,7 +277,7 @@ story storming
           A lot of complex imports and integrations, huge product catalog with many relationships and very, very complex 
           business rules.
 
-          I was <mark>Java/ATG developer</mark> in this project. But I was also responsible for HLD and LLD (High/Low Level Design), pricing,
+          I was <mark>Java/ATG Developer</mark> in this project. But I was also responsible for HLD and LLD (High/Low Level Design), pricing,
           bugfixing, optimizition, automation, production support, contact with the client.
 
           Technologies & tools: 
@@ -346,8 +311,28 @@ story storming
           - HTML, css, js, jQuery
           - Web Service integration
 
-  - title: Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Offering
+    layout: text
+    content: |
+        - **INWI Maroko** - participation in the tender preparation, demo store creation and presentation in front of client in Maroko.
+        Scope of offer was telco store based on Oracle ATG.
+        - **Poczta Polska Usługi Cyfrowe** - participation in the tender preparation.
+        Scope of offer was store based on Oracle ATG.
+        - **InterCars** - new modern retail store based on Oracle ATG.
+        - **UPC Selfcare** - new selfcare portal for UPC based on microservices.
+        - **Rekom** - Mobile applications for restaurants and bars. App for clients and employees with online payment, reservations,
+        recommendations, etc.
+        - **Nationale Nederlanden Mobile App** - insurance store. 
+        - **UPC Mobile App** - Selfcare mobile app for telco clients (simillar to Orange Flex).
+        - **RAA (Ralph Appelbaum Associates) - Museum app** - online portal for storytelling and enriching museum expositions.
+        - **UPC Agent Desktop** - web application for callcenter consultants. Intention was to replace existing system, 
+        make consistent ui for all areas, accelerate onboarding of new employees and make their work easier.
+        - **Osadkowski** - digital transformation wit eCommerce and eCare platform.
+        - **X-Kom** - architecture audit.
+        - **Plus Pay** - Product definition phase for small bank in mobile application.
+
+  - title: Work Experience 
+    layout: list 
     content:
       - layout: left
         title: Hycom
