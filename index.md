@@ -6,8 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-image: /images/profile-min.png
+image: /images/profile-social.png
 description: Resume
+title: Hubert Pruszyński - IT Expert, Solution & Software Architect, Developer
 seo:
     type: Person
 ---
