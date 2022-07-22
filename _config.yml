@@ -38,7 +38,7 @@ additional_links:
 - title: Resume
   icon: fas fa-address-card
   url: https://resume.hp.net.pl/resume.pdf
-  track: CV_CLICK
+  track: DOWNLOAD_CV
 
 about_title: About Me
 about_profile_image: images/profile.webp
