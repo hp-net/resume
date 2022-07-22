@@ -1,0 +1,9 @@
+<div class="row clearfix">
+  <div class="col-md-12">
+    <ul>
+      {% for item in site.offerings reversed %}
+      <li>{{ item.content | strip | markdownify }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

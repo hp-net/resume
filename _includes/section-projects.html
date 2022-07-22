@@ -1,0 +1,39 @@
+{% for item in site.projects reversed %}
+  <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}} {% unless item.print %} no-print{% endunless %}">
+    <div class="col-xs-12 col-sm-4 col-md-3 col-print-3 details">
+      {%- if item.logo -%}
+        <div class="logo">
+          <picture>
+            <source srcset="/images/{{item.logo}}.webp" type="image/webp">
+            <source srcset="/images/{{item.logo}}.png" type="image/png"> 
+            <img src="/images/{{item.logo}}.png" class="img-fluid mx-auto d-block" alt="{{ item.title | escape }}">
+          </picture>
+        </div>
+      {%- endif -%}
+
+      <h4 id="{{ item.title | slugify }}">{{ item.title }}</h4>
+      {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
+      <p>{{ item.from }} - {{ item.to }}</p>
+
+      {%- if item.link -%}
+        {% include a.html href=item.link class="link" %}
+          {%- if item.link_text -%}{{ item.link_text }}{%- else -%}{{ item.link }}{%- endif -%}
+        </a>
+      {%- endif -%}
+      
+      <p class="no-print aditional-links">
+        {% for link in item.additional_links %}
+        {% include a.html href=link.url class="" %}
+          <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
+        </a>
+        {% endfor %}
+      </p>
+    </div>
+    <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+      {%- if item.quote -%}
+        <p class="quote">{{ item.quote }}</p>
+      {%- endif -%}
+      {{ item.content | strip | markdownify }}
+    </div>
+  </div>
+{% endfor %}
