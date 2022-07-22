@@ -1,0 +1,12 @@
+<div class="container footer-container">
+    <p>
+      {{ site.name | escape }} -
+      <a data-event="CLICK_MAIL" href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+      {%- if site.footer.show_references -%}
+        <span class="no-print">&nbsp;- {{ site.footer.references_title | default: "References on request" }}</span>
+      {%- endif -%}
+      {%- if site.footer.show_references_print -%}
+        <span class="print-only-inline">&nbsp;- {{ site.footer.references_title_for_print | default: "References on request" }}</span>
+      {%- endif -%}
+    </p>
+</div>

@@ -9,5 +9,7 @@
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | default: '/assets/favicon.ico' | relative_url }}">
   
-    <script src="https://swetrix.org/swetrix.js" defer></script>
+    {% if site.swetrix.project_id %}
+        <script src="https://swetrix.org/swetrix.js" defer></script>
+    {% endif %}
   </head>

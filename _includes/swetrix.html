@@ -1,0 +1,20 @@
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    swetrix.init('{{site.swetrix.project_id}}')
+    swetrix.trackViews()
+
+    var observed = document.querySelectorAll('[data-event]')
+    for (i=0;i<observed.length;i++) {
+        observed[i].addEventListener('click', (e) => {
+            var event = e.currentTarget.getAttribute('data-event') || 'CLICK';
+            swetrix.track({ev: event});
+        });
+    }
+})
+</script>
+<noscript>
+<img
+    src="https://api.swetrix.com/log/noscript?pid={{site.swetrix.project_id}}"
+    alt=""
+    referrerpolicy="no-referrer-when-downgrade" />
+</noscript>

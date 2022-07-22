@@ -4,6 +4,15 @@
 
 @import 'modern-resume-theme';
 
+a {
+    font-style: italic;
+    font-weight: 300;
+    color: #333;
+}
+a:hover {
+    color: #333;
+}
+
 .layout .details {
     justify-content: flex-start;
 }
@@ -11,4 +20,22 @@
 .layout .details .logo {
     width: 40%;
     margin-bottom: 0.75rem
+}
+
+@media screen and (max-width: 767px) {
+    .layout .details .logo {
+        width: 30%;
+        margin: 0 auto;
+        margin-bottom: 0.75rem;
+    }
+}
+
+.print-only-inline {
+    display: none;
+}
+
+@media print {
+    .print-only-inline {
+        display: inline;
+    }
 }

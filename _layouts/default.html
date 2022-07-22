@@ -9,39 +9,31 @@
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
-      {%- include about.html -%}
+    {%- include about.html -%}
 
-      {%- if site.version == 2 -%}
-        {% for section in site.content %}
-          <div class="container {{ section.layout }}-container">
-            <h3 id="{{ section.title | slugify }}">{{ section.title }}</h3>
-            {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
-          </div>
-        {% endfor %}
-      {% else %}
-        {%- include v1/default.html -%}
-      {%- endif -%}
+    {% for section in site.content %}
+        <div class="container {{ section.layout }}-container {% if section.print == false %} no-print{% endif %}">
+        <h3 id="{{ section.title | slugify }}">{{ section.title }}</h3>
+        {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
+        </div>
+    {% endfor %}
     </div>
   </main>
 
   {%- include footer.html -%}
+
   {% if site.darkmode == false %}
     <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
   {% endif %}
 
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      swetrix.init('{{site.swetrixProjectId}}')
-      swetrix.trackViews()
-    })
-  </script>
-  <noscript>
-    <img
-      src="https://api.swetrix.com/log/noscript?pid={{site.swetrixProjectId}}"
-      alt=""
-      referrerpolicy="no-referrer-when-downgrade"
-    />
-  </noscript>
+  {% if site.darkmode == false %}
+  <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
+  {% endif %}
+
+
+{% if site.swetrix.project_id %}
+    {%- include swetrix.html -%}
+{% endif %}
 </body>
 
 </html>

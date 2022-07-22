@@ -2,36 +2,22 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
-swetrixProjectId: xtOfMX5oSmIK
-
 # Content configuration version
 version: 2
-
-# Personal info
-name: Hubert Pruszyński
-author: Hubert Pruszyński
-title: IT Expert, Solution & Software Architect, Developer
-email: hubert@hp.net.pl
-locale: en_US
-# website: hp.net.pl
 
 # Dark Mode (true/false/never)
 darkmode: never
 
-# Social links
-# twitter_username: facespics
+# Personal info
+name: Hubert Pruszyński
+author: Hubert Pruszyński
+title: IT Expert, Solution & Software Architect
+email: hubert@hp.net.pl
+locale: en_US
+# website: hp.net.pl
 github_username:  hp-net
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
 linkedin_username: hubertpruszynski
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+
 
 # Additional icon links
 additional_links:
@@ -48,9 +34,12 @@ about_content: |
 
   I am most skilled in: <mark>Java</mark>, <mark>Microservices</mark> and <mark>Cloud</mark>
 
+  According to [FRIS](https://fris.pl) my thinking style is <mark>Visionary</mark> and my behavioural style is <mark>Individualist</mark>.
+
 content:
   - title: Work in progress
     layout: text
+    print: false
     content: | 
       - Writing a book with my friend for people that want to start their career in IT 
       - Mentoring program at Hycom
@@ -58,6 +47,7 @@ content:
     layout: projects 
   - title: Offering
     layout: offerings
+    print: false
   - title: Work Experience 
     layout: work-experiences
   - title: Certifications
@@ -99,8 +89,11 @@ content:
       - DIY
 
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer: 
+  show_references: false
+  # references_title: References on request (Override references text)
+  show_references_print: true
+  references_title_for_print: Full resume is available at https://resume.hp.net.pl
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -114,6 +107,9 @@ plugins:
  - jekyll-sitemap
 
 url: https://resume.hp.net.pl
+
+swetrix:
+  project_id: xtOfMX5oSmIK
 
 collections:
   projects:
