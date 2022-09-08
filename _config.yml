@@ -42,7 +42,6 @@ content:
     print: false
     content: | 
       - Writing a book with my friend for people that want to start their career in IT 
-      - Mentoring program at Hycom
   - title: Projects 
     layout: projects 
   - title: Offering
