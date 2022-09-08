@@ -4,7 +4,7 @@ link: https://hycom.digital
 link_text: hycom.digital
 sub_title: IT Architect - Senior IT Architect
 from: September 2015
-to: Present
+to: September 2022
 print: true
 logo: logo-hycom
 ---

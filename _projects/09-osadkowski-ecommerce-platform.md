@@ -1,7 +1,7 @@
 ---
 title: Osadkowski eCommerce Platform
 from: May 2021
-to: Present
+to: September 2022
 sub_title: Osadkowski
 print: true
 logo: logo-osa
