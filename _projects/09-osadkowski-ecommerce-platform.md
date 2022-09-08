@@ -3,6 +3,8 @@ title: Osadkowski eCommerce Platform
 from: May 2021
 to: September 2022
 sub_title: Osadkowski
+link: https://osadkowski.pl/
+link_text: osadkowski.pl
 print: true
 logo: logo-osa
 ---
