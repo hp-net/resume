@@ -11,7 +11,7 @@ darkmode: never
 # Personal info
 name: Hubert Pruszyński
 author: Hubert Pruszyński
-title: IT Expert, Solution & Software Architect, Tech Lead
+title: IT Expert, Architect, Tech Lead
 email: hubert@hp.net.pl
 locale: en_US
 # website: hp.net.pl
@@ -29,7 +29,7 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.webp
 about_content: | 
-  Hi, my name's Hubert and I'm a Senior IT Architect. As well as designing software 
+  Hi, my name's Hubert and I'm a Tech Lead. As well as designing software 
   I also have experience making software and web apps. I have worked on a number of projects gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Java</mark>, <mark>Microservices</mark> and <mark>Cloud</mark>
