@@ -37,11 +37,11 @@ about_content: |
   According to [FRIS](https://fris.pl) my thinking style is <mark>Visionary</mark> and my behavioural style is <mark>Individualist</mark>.
 
 content:
-  - title: Work in progress
-    layout: text
-    print: false
-    content: | 
-      - Writing a book with my friend for people that want to start their career in IT 
+#  - title: Work in progress
+#    layout: text
+#    print: false
+#    content: |
+#      - Writing a book with my friend for people that want to start their career in IT
   - title: Projects 
     layout: projects 
   - title: Offering
