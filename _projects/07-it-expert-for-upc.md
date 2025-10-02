@@ -6,10 +6,15 @@ sub_title: UPC
 print: false
 logo: logo-upc
 ---
-I was helping UPC as <mark>Enterprise Architect</mark>. I was involved in:
-- Gamfi setup - gamification platform for employees
-- Anthos migration - based on selfcare knowledge I was helping with other projects migration
-- Open TM Forum API - I was helping with API design for deep/generic systems
-- Selfcare changes analysis - in cooperation with Liberty Global I was designing integration with corporate infrastructure
-- IT Architecture Board
-- Centralna Baza Pracowników - I was helping with initial analysis for this project 
+
+Supported UPC as an **Enterprise Architect**, contributing to various strategic initiatives,
+including:
+
+- **Gamfi setup**: Configured a gamification platform for employees.
+- **Anthos migration**: Leveraged knowledge from the self-service project to assist with migrations
+  in other projects.
+- **Open TM Forum API**: Assisted in designing APIs for deep/generic systems.
+- **Selfcare changes analysis**: Collaborated with Liberty Global to design integrations with
+  corporate infrastructure.
+- **IT Architecture Board**: Participated in architectural discussions and decisions.
+- **Centralna Baza Pracowników**: Conducted the initial analysis for this project.  

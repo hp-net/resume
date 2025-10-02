@@ -8,15 +8,18 @@ link_text: github.com/hp-net/homebridge-nibe
 print: true
 logo: logo-github
 ---
-My first **open source** project. I already get a few cups of coffee ($) from people who liked it.
 
-My homebridge plugin retrieves data from a Nibe heat pump from Nibe Uplink. 
-Homebridge allows you to integrate with smart home devices that do not natively support Apple HomeKit. 
+This was my first **open source** project, which has already received some support in the form of
+coffee donations from users who appreciated it.
 
-Technologies & tools:
-- **Typescript**
+I developed a **Homebridge plugin** that retrieves data from a Nibe heat pump via **Nibe Uplink**.  
+Homebridge enables integration with smart home devices that lack native support for Apple HomeKit.
+
+**Technologies & Tools:**
+
+- **TypeScript**
 - GitHub
 - Gulp
 - Jest
 - Homebridge
-- Node.js, npm
+- Node.js, npm  

@@ -6,14 +6,22 @@ sub_title: Deutsche Telekom
 print: true
 logo: logo-dtag
 ---
-B2B eCommerce portal. It was a **retail store** for big B2B German companies. We were selling phones and accessories.
-Project was done in cooperation with other DTAG teams from Europe.
 
-At the beginning I was <mark>Solution Architect</mark> responsible for analysis and design of the product. Later during implementation
-my role was <mark>Team Leader</mark>. I was responsible for developers and product implementation, delivery, performance, release.
+Developed a **B2B eCommerce portal**, designed as a retail store for large German B2B companies,
+offering phones and accessories. The project was executed in collaboration with other Deutsche
+Telekom AG teams across Europe.
 
-Technologies & tools:
+Initially, I served as a **Solution Architect**, responsible for the product's analysis and design.
+During the implementation phase, I transitioned to the role of **Team Leader**, overseeing:
+
+- Development teams
+- Product implementation and delivery
+- Performance optimization
+- Release management
+
+**Technologies & Tools:**
+
 - Oracle ATG
 - **Oracle Endeca**
 - SAP
-- Jira / Confluence
+- Jira / Confluence  

@@ -8,24 +8,31 @@ link_text: selfcare.upc.pl
 print: true
 logo: logo-upc
 ---
-PWA (Progressive Web App) **selfservice** for UPC clients.
 
-Project was beginning of digital transformation in UPC called DNA (Digital And Agile). Together with UX specialists and analysts we started 
-with exploring clients problems and needs. We have created a Customer Journey Map and scope of MVP. After that
-in **only 10 weeks** (10 one-week sprints) we implemented it and released to production. MVP consists of login functionality, onboarding, 
-payments list and additional payment information, online payments, notifications, customer profile. In the next 4 weeks we added
-chatbot functionality with custom UI, custom rules and knowledge provided by Stanusch knowledge base. 
+Developed a **PWA (Progressive Web App)** self-service platform for UPC clients, marking the start
+of UPC's digital transformation initiative known as **DNA (Digital and Agile)**.
 
-After success of this project, digital transformation in UPC was extended from our one team to 3 more provided by UPC. 
+Collaborated with UX specialists and analysts to identify client needs and problems, creating a *
+*Customer Journey Map** and defining the MVP scope. In just **10 weeks** (10 one-week sprints), the
+MVP was implemented and released to production. Key features included login functionality,
+onboarding, payment list and details, online payments, notifications, and customer profile
+management.
 
-I was <mark>IT Architect</mark>, <mark>Developer</mark> and <mark>Team Leader</mark> in this project.
+In an additional 4 weeks, a chatbot was integrated with a custom UI, rules, and knowledge base from
+Stanusch.
 
-Technologies & tools:
+The success of this project led to the expansion of digital transformation within UPC, scaling one
+team into three additional teams provided by UPC.
+
+I served as the **IT Architect**, **Developer**, and **Team Leader** for this project.
+
+**Technologies & Tools:**
+
 - Google Anthos, **Kubernetes**, **Docker**
 - Kemp Load Balancer
 - Spring Cloud
 - React.js
-- Microservices/Netflix OSS
+- Microservices / Netflix OSS
 - Spring Boot Admin
 - Swagger
 - **RedisDB**, Oracle DB
@@ -34,4 +41,4 @@ Technologies & tools:
 - Firebase
 - SCRUM
 - Jira / Confluence
-- Gitlab, Gitlab pipelines
+- GitLab, GitLab pipelines  

@@ -6,13 +6,16 @@ sub_title: Deutsche Telekom
 print: false
 logo: logo-dtag
 ---
-B2B eCommerce portal. It was a **telco** store for B2B German clients.
 
-I was <mark>Solution Architect</mark> and <mark>Java Developer</mark> in this project.
+Built a **B2B eCommerce portal** designed as a **telco store** for German business clients.
 
-Technologies & tools:
+I worked as both a **Solution Architect**, responsible for designing the solution, and a **Java
+Developer**, contributing to the implementation.
+
+**Technologies & Tools:**
+
 - Oracle ATG
 - Oracle Endeca
 - **Spring Boot**
 - Activity
-- Jira / Confluence
+- Jira / Confluence  

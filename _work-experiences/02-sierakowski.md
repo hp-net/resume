@@ -5,11 +5,13 @@ from: July 2007
 to: October 2007
 print: false
 ---
-Responsible for:
-- digital image processing
-- computers maintenance and administration
-- developing photos
-- photos printing
 
-Technologies & tools: 
-- Photoshop
+Responsibilities included:
+
+- Processing digital images
+- Maintaining and administering computer systems
+- Developing and printing photographs
+
+Tools and technologies:
+
+- Photoshop 

@@ -8,23 +8,32 @@ link_text: orange.pl
 print: true
 logo: logo-orange
 ---
-eCommerce for **telco** offering, personalized proposition for existing customers, eCare and portal.
-A lot of complex imports and integrations, huge product catalog with many relationships and very, very complex 
-business rules.
 
-I was <mark>Java/ATG Developer</mark> in this project. But I was also responsible for HLD and LLD (High/Low Level Design), pricing,
-bug fixing, optimization, automation, production support, contact with the client.
+Developed an **eCommerce platform** for a **telco** offering, including personalized propositions
+for existing customers, eCare functionalities, and a customer portal. The project involved handling
+complex imports and integrations, managing an extensive product catalog with intricate
+relationships, and implementing highly complex business rules.
 
-Technologies & tools: 
+My role was primarily as a **Java/ATG Developer**, but I was also responsible for:
+
+- High-Level Design (HLD) and Low-Level Design (LLD)
+- Pricing
+- Bug fixing and optimization
+- Automation
+- Production support
+- Client communication
+
+**Technologies & Tools:**
+
 - **Oracle ATG**
 - Java
 - DynaXML CMS
-- HTML, CSS, JS, jQuery, prototype js
+- HTML, CSS, JavaScript, jQuery, Prototype.js
 - Ant
 - Hudson
-- MemCached, Couchbase
+- Memcached, Couchbase
 - JBoss
-- svn, svnmerge.py
+- SVN, svnmerge.py
 - **JRebel**
 - Web Services
-- Oracle DB
+- Oracle DB  

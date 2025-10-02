@@ -6,25 +6,30 @@ to: August 2013
 print: true
 logo: logo-amg
 ---
-I started my real IT developer journey as a trainee in AMG.net. I was one of the **best students** and during the first phase of training I 
-understand what this coding is all about. The second phase of training was work on a real project, in my case it was Orange portal.
 
-After training, I’ve stayed in AMG.net. Very fast, I was assigned to “Functional Expansions” as projects **technical team leader**. 
-Team was small from 2 to 5 people. It was rather small, recurring projects with changes too small to put them in big release. 
-Usually, development took less than a couple of days. Together with my colleague, we have manage to make this project as a role model for others. 
-We manage to **make it profitable, good documented and well communicated**.
+My IT developer journey began as a trainee at AMG.net, where I was recognized as one of the **top
+students**. During the first phase of training, I gained a solid understanding of coding
+fundamentals. The second phase involved working on a real-world project—the Orange portal.
 
-During that time I was responsible for almost whole delivery process. From design, develop to delivery preparation. 
-My role was to prepare pricing for the change, document, implement, test, merge it and prepare deployment instructions. 
-I was also responsible for maintaining development environment.
+Following the training, I continued at AMG.net and was quickly promoted to **Technical Team Leader**
+for the “Functional Expansions” projects. Leading a team of 2 to 5 people, I managed smaller,
+recurring projects focused on incremental changes, often completed within a few days. Together with
+a colleague, we transformed these projects into a **role model for other teams** by making them *
+*profitable, well-documented, and effectively communicated**.
 
-After a few years I’ve decided to move to something bigger.
+In this role, I handled nearly all aspects of the delivery process, including design, development,
+and deployment preparation. This involved tasks like preparing pricing, documenting requirements,
+implementing changes, testing, merging, and creating deployment instructions. I was also responsible
+for maintaining the development environment.
 
-I’ve stayed in Orange, but moved to big releases. I was involved in **eCommerce** part. Most of my responsibilities were 
-the same but on a much bigger scale. During that years I was also responsible for **code refactoring, performance optimization, 
-source code quality, third-party audits analysis, big commerce architecture modifications**. From time to time I’ve also helped 
-in other regions of Orange, e.g: nju mobile eShop.
+After several years, I decided to take on larger challenges. I remained within Orange but
+transitioned to their major release projects, particularly in the **eCommerce** domain. My
+responsibilities grew significantly in scale and included **code refactoring, performance
+optimization, source code quality improvements, third-party audit analysis, and major commerce
+architecture modifications**. Occasionally, I also contributed to other regions of Orange, such as
+the nju mobile eShop.
 
-Apart from Orange, I was also very active on company level. I was participating in **offering processes, 
-employee and students trainings**. I was also involved in **internal projects**. I have crated and administrated 
-plugins for Confluence and Crucible from Atlassian stack.
+Beyond my project-specific contributions, I was highly active at the company level. I participated
+in **offering processes, employee and student training sessions**, and various internal initiatives.
+Additionally, I developed and managed plugins for Atlassian tools such as Confluence and Crucible as
+part of internal projects.

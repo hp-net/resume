@@ -8,33 +8,39 @@ to: September 2022
 print: true
 logo: logo-hycom
 ---
-After some time of being an expert, I decided to go back to my root and work as a team member. Other thing that I wanted to change 
-was to move from “big products” to something smaller and **open source**. That when I have meet and learned **microservices** and **cloud**.
 
-80% of my time I have spent on projects for Deutsche Telekom, Fortum, UPC, X-Kom and lately Osadkowski.
+After some time in an expert/consultant role, I decided to return to being a team member. I also
+wanted to shift my focus from large-scale products to smaller, **open-source** solutions. This is
+when I was introduced to **microservices** and **cloud technologies**.
 
-Rest of my time I have dedicated for **knowledge sharing** and **learning**.
+I dedicated 80% of my time to projects for Deutsche Telekom, Fortum, UPC, X-Kom, and more recently,
+Osadkowski. The remaining time was focused on **knowledge sharing** and **personal learning**.
 
-I have been very active on company level. I have become **leader of Cloud circle**. My biggest achievements were creating course 
-for employees about microservices and cloud. Convincing, organizing budget and helping with cloud certification on AWS and GCP. 
-I initiated architects meetings. Make some presentations about microservices and projects that I was involved in. I have also been one 
-of the person that created Hycom’s Unified Delivery Methodology. That was a guideline with standards about project realization from 
-design to delivery.
+On a company level, I was highly active and took on the role of **leader of the Cloud Circle**. My
+key contributions included:
 
-I have been involved in few projects with **Technical University of Lodz**. First one "Implementacje Przemysłowe" was a regular subject 
-from university (Faculty of Technical Physics, Information Technology and Applied Mathematics) in cooperation with Hycom. I have been part 
-of it a couple of times. Together with students we were making small projects like Facebook chatbot or Confluence plugin. Other initiative 
-where together with students council (Faculty of Electrical, Electronic, Computer and Control Engineering) we have prepared an on site 
-programming course. The topic of the course was: "Hy!Class: Tworzenie mikroserwisów z wykorzystaniem Spring Cloud oraz Netflix OSS".
+- Designing and delivering internal courses on microservices and cloud technologies
+- Securing budgets and advocating for cloud certifications (AWS and GCP)
+- Initiating architects' meetings and presenting on microservices and various projects
+- Contributing to the creation of **Hycom’s Unified Delivery Methodology**, which provided standards
+  to guide project realization from design to delivery
 
-Together with my colleague had a presentation on **"Akademickie Targi Pracy"**. We have talked about TDD and the topic of our presentation was: 
-"Developer nie SAPER, myli się nie raz".
+Additionally, I collaborated with the **Technical University of Łódź** on multiple initiatives:
 
-Next there was workshop for **"Młodzi w Łodzi"** with topic "Hy!Class: Zwinne wytwarzanie oprogramowania". It was an interactive workshop where 
-I was teaching students about agile and scrum. During the workshop we have played a lot of games like Agile Values Puzzle Game, 
-Marshmallow challenge, Airplanes production.
+- **Implementacje Przemysłowe**: A university subject in collaboration with Hycom, where I worked
+  with students on small projects like a Facebook chatbot and a Confluence plugin
+- A programming course run with the students' council titled: "Hy!Class: Tworzenie mikroserwisów z
+  wykorzystaniem Spring Cloud oraz Netflix OSS"
 
-My last public presentation was on **JUG** (Java User Group) in Toruń where together with my colleague we were talking about it architect role. 
-Topic of presentation was "Hy!Class: Co robi architekt?".
+I also participated in numerous presentations and workshops:
 
-Last but not least, I have also been a guardian for a few people. I was responsible for their personal development and career path.
+- **"Akademickie Targi Pracy"**: Delivered a presentation titled "Developer nie SAPER, myli się nie
+  raz", focusing on TDD, together with a colleague
+- **Młodzi w Łodzi**: Conducted an interactive workshop titled "Hy!Class: Zwinne wytwarzanie
+  oprogramowania", teaching agile and scrum methodologies through activities such as the Agile
+  Values Puzzle Game, the Marshmallow Challenge, and Airplanes production exercises
+- **JUG (Java User Group) in Toruń**: Presented with a colleague on the responsibilities of an IT
+  architect under the topic "Hy!Class: Co robi architekt?"
+
+Lastly, I served as a mentor/guardian for several employees, helping guide their career paths and
+personal development.

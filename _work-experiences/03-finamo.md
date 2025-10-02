@@ -5,7 +5,8 @@ from: June 2009
 to: February 2010
 print: false
 ---
-I was a **one-man army** responsible for creating a web application. Working remote and directly contacting 
-with customer. 
 
-I was responsible for whole delivery process: design, develop and delivery.        
+Independently created a web application while working remotely and maintaining direct communication
+with the client.
+
+Handled the entire delivery lifecycle, including design, development, and deployment.  

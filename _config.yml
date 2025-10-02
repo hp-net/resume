@@ -15,43 +15,42 @@ title: IT Expert, Architect, Tech Lead
 email: hubert@hp.net.pl
 locale: en_US
 # website: hp.net.pl
-github_username:  hp-net
+github_username: hp-net
 linkedin_username: hubertpruszynski
 
 
 # Additional icon links
 additional_links:
-- title: Resume
-  icon: fas fa-address-card
-  url: https://resume.hp.net.pl/resume.pdf
-  track: DOWNLOAD_CV
+  - title: Resume
+    icon: fas fa-address-card
+    url: https://resume.hp.net.pl/resume.pdf
+    track: DOWNLOAD_CV
 
 about_title: About Me
 about_profile_image: images/profile.webp
-about_content: | 
-  Hi, my name's Hubert and I'm a Tech Lead. As well as designing software 
-  I also have experience making software and web apps. I have worked on a number of projects gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>Java</mark>, <mark>Microservices</mark> and <mark>Cloud</mark>
-
-  According to [FRIS](https://fris.pl) my thinking style is <mark>Visionary</mark> and my behavioural style is <mark>Individualist</mark>.
+about_content: |
+  Hi, my name is Hubert, and I work as a Tech Lead. In addition to designing software, I have hands-on experience in developing software and web applications. Having participated in numerous projects, I have gained strong teamwork and leadership skills.  
+  
+  My key expertise lies in **Java**, **Microservices**, and **Cloud** technologies.
+  
+  As per the [FRIS](https://fris.pl) methodology, my thinking style is classified as **Visionary**, and my behavioral style as **Individualist**.
 
 content:
-#  - title: Work in progress
-#    layout: text
-#    print: false
-#    content: |
-#      - Writing a book with my friend for people that want to start their career in IT
-  - title: Projects 
-    layout: projects 
+  #  - title: Work in progress
+  #    layout: text
+  #    print: false
+  #    content: |
+  #      - Writing a book with my friend for people that want to start their career in IT
+  - title: Projects
+    layout: projects
   - title: Offering
     layout: offerings
     print: false
-  - title: Work Experience 
+  - title: Work Experience
     layout: work-experiences
   - title: Certifications
     layout: text
-    content: | 
+    content: |
       - **AWS Certified Cloud Practitioner**
         Issued Oct 2020 · Expires Oct 2023
       - **Train the TrainerTrain the Trainer - Sages**
@@ -66,29 +65,30 @@ content:
         Issued Jan 2012 · No Expiration
       - **Oracle ATG Web Commerce 10 Sales Specialist Assessment**
         Issued Jan 2012 · No Expiration
+  - title: Badges
+    layout: badges
   - title: Education
     layout: text
     content: |
-      - 2005 - 2013 **Lodz University of TechnologyLodz University of Technology**
+      - **2005 - 2013**: **Lodz University of Technology**  
+        - Engineer's Degree in Software Engineering and Data Analysis
+        - **Activities and Societies**: Member and first president of the "Koffeine" scientific club
 
-        Engineer's degree, Software Engineering and Data AnalysisEngineer's degree, Software Engineering and Data Analysis
-        
-        Activities and societies: Member and first president of "Koffeine" scientific club.
   - title: Languages
     layout: text
     content: |
-      - **English** - professional working proficiency
-      - **Polish** - native proficiency
+      - **English**: Professional working proficiency  
+      - **Polish**: Native proficiency
   - title: A Little More About Me
     layout: text
     content: |
-      Alongside my interests in software engineering, some of my other interests and hobbies are:
-      - My husky dog training
+      In addition to my passion for software engineering, my interests and hobbies include:  
+      - Training my husky dog
       - Trekking and hiking
-      - DIY
+      - DIY projects
 
 # Footer
-footer: 
+footer:
   show_references: false
   # references_title: References on request (Override references text)
   show_references_print: true
@@ -102,8 +102,8 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
- - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 url: https://resume.hp.net.pl
 

@@ -8,20 +8,25 @@ link_text: www.fortum.pl
 print: true
 logo: logo-fortum
 ---
-**Selfcare mobile** application for heat and energy clients. With backend based on microservices hosted on AWS.
-Second app was "Honorowy Dawca Energii Fortum". It was a charity application that was integrated with sports applications.
 
-I was <mark>IT Architect</mark> and <mark>Developer</mark> for the backend part.
+Developed a **Selfcare mobile application** for heat and energy clients, with a backend powered by
+microservices hosted on AWS.
 
-Technologies & tools:
+Additionally, worked on a charity app, **"Honorowy Dawca Energii Fortum"**, which was integrated
+with sports applications for tracking activity and contributing to charitable causes.
+
+I served as both an **IT Architect** and **Developer**, focusing on backend-related tasks.
+
+**Technologies & Tools:**
+
 - **Amazon ECS** (Elastic Container Service)
 - Spring Boot
 - React Native
-- Microservices/**Netflix OSS**
+- Microservices / **Netflix OSS**
 - Spring Boot Admin
 - Swagger
 - **RabbitMQ**
-- integration with external services: Strava, Runkeeper, Garmin, Firebase, OpenWeatherMaps, Airly
+- Integration with external services: Strava, Runkeeper, Garmin, Firebase, OpenWeatherMaps, Airly
 - SCRUM
 - Jira / Confluence
-- Gitlab, Gitlab pipelines
+- GitLab, GitLab pipelines  

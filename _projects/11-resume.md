@@ -8,11 +8,13 @@ link_text: github.com/hp-net/resume
 print: false
 logo: logo-github
 ---
+
 This is a resume that you are looking at.
 
-Technologies & tools:
+**Technologies & Tools:**
+
 - HTML, SCSS
 - GitHub
 - Jekyll
 - Markdown
-- Swetrix
+- Swetrix 

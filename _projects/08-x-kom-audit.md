@@ -8,30 +8,47 @@ link_text: www.x-kom.pl
 print: true
 logo: logo-xkom
 ---
-IT **audit** of X-Kom architecture divided into two parts: AS-IS and TO-BE.
 
-In AS-IS started with existing documentation analysis, we read 100+ documents. Next, we have prepared 
-anonymous **questionnaire** with more than 70 questions. We have got more than one hundred answers. Then we have series
-of **workshops** (20+). And during 30 days we talked about almost every X-Kom system. We also have additional workshops with
-business, configuration and infrastructure teams. The result of this phase was current architecture in C4 model and a report
-with **rating** for each system in 4 areas: elasticity, scalability, reliability. We have also created **System Model Canvas** (based on Business Model Canvas)
-for each system and ratings heatmap.
+Conducted an IT **audit** of X-Kom's architecture, divided into two main phases: **AS-IS** and **TO-BE**.
 
-During To-BE we focused on creating a future vision on architecture landscape. Based on workshops
-with business, it and security we have prepared:
-- technical debt report,
-- future architecture vision in C4 model,
-- recommendations with roadmap.  
+**AS-IS Phase**
 
-I was <mark>IT Expert</mark> in this project. Team consist of Business Architect, Senior Architect and me. 
+This phase involved analyzing the current state of X-Kom's architecture. The process included:
 
-Technologies & tools:
-- **Typescript** 
+- Reviewing **100+ documents** of existing documentation.
+- Preparing an anonymous **questionnaire** with more than 70 questions, gathering over 100
+  responses.
+- Conducting 20+ **workshops** over 30 days, covering almost all X-Kom systems. Additional workshops
+  were held with business, configuration, and infrastructure teams.
+
+The outcomes of this phase included:
+
+- Modeling the current architecture using the **C4 Model**.
+- Delivering a report with system **ratings** across four areas: elasticity, scalability, and
+  reliability.
+- Creating a **System Model Canvas** (based on the Business Model Canvas) for each system.
+- Developing a **heatmap** of system ratings.
+
+**TO-BE Phase**
+
+Focused on defining the future architecture landscape, this phase involved:
+
+- Conducting workshops with business, IT, and security teams.
+- Preparing a **Technical Debt Report**.
+- Creating a future architecture vision using the **C4 Model**.
+- Proposing detailed recommendations and a **roadmap** for implementation.
+
+I was an **IT Expert** in this project, working as part of a team alongside a Business Architect and
+a Senior Architect.
+
+**Technologies & Tools:**
+
+- **TypeScript**
 - **ClickUP**
 - Confluence
-- **C4 Model**, Structurizr 
+- **C4 Model**, Structurizr
 - **Node.js**
-- Html, JS, CSS
-- Gitlab, Gitlab pipelines
+- HTML, JavaScript, CSS
+- GitLab, GitLab pipelines
 - Qualtrics
-- Miro
+- Miro  

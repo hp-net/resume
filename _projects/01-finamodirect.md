@@ -5,14 +5,17 @@ to: February 2010
 sub_title: Finamo
 print: false
 ---
-Back office web application that integrates with Finamo insurance store. Application role was
-to support back-office consultants with insurance orders verification and processing. 
 
-Whole UI, storage, integration and business logic was created by me.
+Developed a back-office web application integrated with the Finamo insurance store. The application
+supported back-office consultants in verifying and processing insurance orders.
 
-Technologies & tools: 
+I was fully responsible for designing and implementing the entire solution, including the UI,
+storage, integration, and business logic.
+
+**Technologies & Tools:**
+
 - Java
 - **Spring**
 - Hibernate, MySQL
-- HTML, css, js, jQuery
-- Web Service integration
+- HTML, CSS, JavaScript, jQuery
+- Web Service integration  

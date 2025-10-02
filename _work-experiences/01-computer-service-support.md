@@ -5,6 +5,8 @@ from: July 2006
 to: December 2006
 print: false
 ---
-Consultant at HelpDesk department for big polish telco client: **Telekomunikacja Polska (TP S.A.)**.
 
-Responsible for mass support request handling.
+Served as a HelpDesk Consultant for a major Polish telecommunications client, **Telekomunikacja
+Polska (TP S.A.)**.
+
+Handled large-scale support requests efficiently.
