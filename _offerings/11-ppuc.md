@@ -1,5 +1,5 @@
 ---
 
 ---
-**Poczta Polska Usługi Cyfrowe** - participation in the tender preparation.
-Scope of offer was store based on Oracle ATG.
+**Poczta Polska Uslugi Cyfrowe** - Tender participation and preparation of an Oracle ATG-based
+store offer.

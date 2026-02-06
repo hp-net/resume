@@ -9,22 +9,18 @@ print: true
 logo: logo-upc
 ---
 
-Developed a **PWA (Progressive Web App)** self-service platform for UPC clients, marking the start
-of UPC's digital transformation initiative known as **DNA (Digital and Agile)**.
+Built a **PWA self-care platform** for UPC clients, kickstarting the **DNA (Digital and Agile)**
+transformation program.
 
-Collaborated with UX specialists and analysts to identify client needs and problems, creating a *
-*Customer Journey Map** and defining the MVP scope. In just **10 weeks** (10 one-week sprints), the
-MVP was implemented and released to production. Key features included login functionality,
-onboarding, payment list and details, online payments, notifications, and customer profile
-management.
+Scope and delivery highlights:
 
-In an additional 4 weeks, a chatbot was integrated with a custom UI, rules, and knowledge base from
-Stanusch.
+- Worked with UX and analysts to define the MVP and **Customer Journey Map**
+- Delivered the MVP in **10 weeks** (10 one-week sprints) to production
+- Core features: login, onboarding, payments, notifications, and profile management
+- Added a chatbot with custom UI and knowledge base in 4 additional weeks
+- Success scaled the initiative from one team to three
 
-The success of this project led to the expansion of digital transformation within UPC, scaling one
-team into three additional teams provided by UPC.
-
-I served as the **IT Architect**, **Developer**, and **Team Leader** for this project.
+Role: **IT Architect**, **Developer**, **Team Leader**.
 
 **Technologies & Tools:**
 

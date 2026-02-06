@@ -1,4 +1,4 @@
 ---
 
 ---
-**UPC Selfcare** - new selfcare portal for UPC based on microservices.
+**UPC Selfcare** - Tender participation for a microservices-based self-care portal.

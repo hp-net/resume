@@ -9,37 +9,24 @@ print: true
 logo: logo-xkom
 ---
 
-Conducted an IT **audit** of X-Kom's architecture, divided into two main phases: **AS-IS** and **TO-BE**.
+Led an IT **architecture audit** for X-Kom across **AS-IS** and **TO-BE** phases.
 
-**AS-IS Phase**
+AS-IS:
 
-This phase involved analyzing the current state of X-Kom's architecture. The process included:
+- Reviewed **100+ documents** and ran a **70+ question** anonymous survey
+- Facilitated **20+ workshops** over 30 days with business, configuration, and infrastructure teams
+- Modeled current architecture with the **C4 Model**
+- Produced system **ratings** (elasticity, scalability, reliability) and a heatmap
+- Created a **System Model Canvas** per system
 
-- Reviewing **100+ documents** of existing documentation.
-- Preparing an anonymous **questionnaire** with more than 70 questions, gathering over 100
-  responses.
-- Conducting 20+ **workshops** over 30 days, covering almost all X-Kom systems. Additional workshops
-  were held with business, configuration, and infrastructure teams.
+TO-BE:
 
-The outcomes of this phase included:
+- Ran workshops with business, IT, and security stakeholders
+- Delivered a **Technical Debt Report**
+- Defined a future architecture vision using the **C4 Model**
+- Proposed recommendations and an implementation roadmap
 
-- Modeling the current architecture using the **C4 Model**.
-- Delivering a report with system **ratings** across four areas: elasticity, scalability, and
-  reliability.
-- Creating a **System Model Canvas** (based on the Business Model Canvas) for each system.
-- Developing a **heatmap** of system ratings.
-
-**TO-BE Phase**
-
-Focused on defining the future architecture landscape, this phase involved:
-
-- Conducting workshops with business, IT, and security teams.
-- Preparing a **Technical Debt Report**.
-- Creating a future architecture vision using the **C4 Model**.
-- Proposing detailed recommendations and a **roadmap** for implementation.
-
-I was an **IT Expert** in this project, working as part of a team alongside a Business Architect and
-a Senior Architect.
+Role: **IT Expert**, collaborating with a Business Architect and a Senior Architect.
 
 **Technologies & Tools:**
 

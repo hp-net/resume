@@ -1,4 +1,4 @@
 ---
 
 ---
-**Osadkowski** - digital transformation wit eCommerce and eCare platform.
+**Osadkowski** - Tender participation for digital transformation with eCommerce and eCare platforms.

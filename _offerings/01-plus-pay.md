@@ -1,4 +1,4 @@
 ---
 
 ---
-**Plus Pay** - Product definition phase for small bank in mobile application.
+**Plus Pay** - Tender participation for a small bank mobile app product definition phase.

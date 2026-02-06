@@ -7,10 +7,9 @@ print: false
 logo: logo-dtag
 ---
 
-Built a **B2B eCommerce portal** designed as a **telco store** for German business clients.
+Built a **B2B eCommerce portal** for German business clients, designed as a telco store.
 
-I worked as both a **Solution Architect**, responsible for designing the solution, and a **Java
-Developer**, contributing to the implementation.
+Owned solution design as **Solution Architect** and contributed to delivery as **Java Developer**.
 
 **Technologies & Tools:**
 

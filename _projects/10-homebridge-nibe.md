@@ -9,11 +9,10 @@ print: true
 logo: logo-github
 ---
 
-This was my first **open source** project, which has already received some support in the form of
-coffee donations from users who appreciated it.
+My first **open-source** project, supported by user donations.
 
-I developed a **Homebridge plugin** that retrieves data from a Nibe heat pump via **Nibe Uplink**.  
-Homebridge enables integration with smart home devices that lack native support for Apple HomeKit.
+Built a **Homebridge plugin** that pulls data from a Nibe heat pump via **Nibe Uplink**, enabling
+Apple HomeKit integration for devices without native support.
 
 **Technologies & Tools:**
 

@@ -29,11 +29,11 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.webp
 about_content: |
-  Hi, my name is Hubert, and I work as a Tech Lead. In addition to designing software, I have hands-on experience in developing software and web applications. Having participated in numerous projects, I have gained strong teamwork and leadership skills.  
-  
-  My key expertise lies in **Java**, **Microservices**, and **Cloud** technologies.
-  
-  As per the [FRIS](https://fris.pl) methodology, my thinking style is classified as **Visionary**, and my behavioral style as **Individualist**.
+  I am a hands-on Tech Lead and Architect who stays close to the code. I design systems and deliver production software across web and platform teams, with a focus on clarity, maintainability, and outcomes.
+
+  Core focus: **Java/Spring**, **Node.js/Next.js**, **AWS**, and **Terraform**, with a strong bias toward microservices, API-first design, and pragmatic delivery.
+
+  As per the [FRIS](https://fris.pl) methodology, my thinking style is **Visionary** and my behavioral style is **Individualist**.
 
 content:
   #  - title: Work in progress
@@ -43,7 +43,7 @@ content:
   #      - Writing a book with my friend for people that want to start their career in IT
   - title: Projects
     layout: projects
-  - title: Offering
+  - title: Tender Participation
     layout: offerings
     print: false
   - title: Work Experience
@@ -52,9 +52,9 @@ content:
     layout: text
     content: |
       - **AWS Certified Cloud Practitioner**
-        Issued Oct 2020 · Expires Oct 2023
-      - **Train the TrainerTrain the Trainer - Sages**
-        Issued Oct 2018 · No Expiration Date
+        Issued Oct 2020 · Expired Oct 2023
+      - **Train the Trainer - Sages**
+        Issued Oct 2018 · No Expiration
       - **Oracle Certified Associate, Java SE 7 Programmer (1Z0-803)**
         Issued Nov 2013 · No Expiration
       - **Oracle ATG Web Commerce 10 Implementation Developer Essentials (1Z0-510)**
@@ -72,7 +72,7 @@ content:
     content: |
       - **2005 - 2013**: **Lodz University of Technology**  
         - Engineer's Degree in Software Engineering and Data Analysis
-        - **Activities and Societies**: Member and first president of the "Koffeine" scientific club
+        - **Activities**: Member and first president of the "Koffeine" scientific club
 
   - title: Languages
     layout: text
@@ -82,7 +82,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
-      In addition to my passion for software engineering, my interests and hobbies include:  
+      In addition to software engineering, I enjoy:  
       - Training my husky dog
       - Trekking and hiking
       - DIY projects

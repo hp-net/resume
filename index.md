@@ -8,10 +8,10 @@
 layout: default
 image: /images/profile-social.png
 description: |
-    Hi, my name's Hubert and I'm a Senior IT Architect. As well as designing software 
-    I also have experience making software and web apps. I have worked on a number of projects gaining teamwork and leadership skills.
+    Hi, I am Hubert. I am a hands-on Tech Lead and Architect who designs systems and ships production software.
+    My focus is on clear architecture, pragmatic delivery, and teams that own outcomes.
 
-    I am most skilled in: Java, Microservices and Cloud.
+    Core stack: Java/Spring, Node.js/Next.js, AWS, and Terraform.
 
 title: Hubert Pruszyński - IT Expert, Architect and Developer
 seo:

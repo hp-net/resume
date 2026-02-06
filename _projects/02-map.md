@@ -9,19 +9,15 @@ print: true
 logo: logo-orange
 ---
 
-Developed an **eCommerce platform** for a **telco** offering, including personalized propositions
-for existing customers, eCare functionalities, and a customer portal. The project involved handling
-complex imports and integrations, managing an extensive product catalog with intricate
-relationships, and implementing highly complex business rules.
+Delivered an **eCommerce platform** for a **telco** offering, including personalized propositions,
+eCare features, and a customer portal. The work included complex imports, integrations, and a large
+product catalog with intricate relationships and business rules.
 
-My role was primarily as a **Java/ATG Developer**, but I was also responsible for:
+Role and responsibilities:
 
-- High-Level Design (HLD) and Low-Level Design (LLD)
-- Pricing
-- Bug fixing and optimization
-- Automation
-- Production support
-- Client communication
+- **Java/ATG Developer** with HLD/LLD contributions
+- Pricing, automation, and production support
+- Bug fixing, performance optimization, and client communication
 
 **Technologies & Tools:**
 

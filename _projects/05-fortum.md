@@ -9,13 +9,13 @@ print: true
 logo: logo-fortum
 ---
 
-Developed a **Selfcare mobile application** for heat and energy clients, with a backend powered by
-microservices hosted on AWS.
+Delivered a **self-care mobile application** for heat and energy clients, backed by microservices
+on AWS.
 
-Additionally, worked on a charity app, **"Honorowy Dawca Energii Fortum"**, which was integrated
-with sports applications for tracking activity and contributing to charitable causes.
+Also contributed to **Honorowy Dawca Energii Fortum**, a charity app integrated with sports
+platforms for activity tracking and donations.
 
-I served as both an **IT Architect** and **Developer**, focusing on backend-related tasks.
+Role: **IT Architect** and **Developer**, with a backend focus.
 
 **Technologies & Tools:**
 

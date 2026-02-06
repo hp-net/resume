@@ -1,5 +1,5 @@
 ---
 
 ---
-**Rekom** - Mobile applications for restaurants and bars. App for clients and employees with online payment, reservations,
-recommendations, etc.
+**Rekom** - Tender participation for mobile apps for restaurants and bars, including payments,
+reservations, recommendations, and staff workflows.

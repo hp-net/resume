@@ -9,36 +9,28 @@ print: true
 logo: logo-osa
 ---
 
-The goal of the project was to establish online touchpoints for customers.
+Established online touchpoints and a roadmap for Osadkowski's digital transformation.
 
-*Key Contributions:*
+Key contributions:
 
-- Started by understanding customer needs, company goals, and existing limitations.
-- Organized and led a series of workshops to enhance technology understanding.
-- Developed **Architectural Drivers** for the future architecture and created **System Discovery
-  Canvases** (similar to X-Kom).
-- Assisted with preparing the **Customer Journey Map** and creating the roadmap.
+- Mapped customer needs, business goals, and constraints
+- Led workshops to align stakeholders on technology direction
+- Defined **Architectural Drivers** and **System Discovery Canvases**
+- Supported the **Customer Journey Map** and roadmap planning
 
-*eCare:*
+eCare deep dive:
 
-During the deeper analysis of the first roadmap milestone (**eCare**), I:
+- Defined **non-functional requirements** and **logical architecture**
+- Helped scope functional requirements
+- Delivered a **Service Blueprint**
 
-- Prepared **non-functional requirements** and **logical architecture**.
-- Aided in scoping and defining functional requirements.
-- Delivered results compiled into a **Service Blueprint**.
+Agile delivery and eCommerce definition:
 
-*Agile Delivery & eCommerce Definition:*
+- Set up the technical foundation before sprints as **Team Leader**
+- Supported the Scrum team and eCommerce definition in parallel
+- Co-led **Story Storming** workshops with the Business Architect
 
-As a **Team Leader**, I was responsible for the technical setup before the regular sprints began.  
-During the agile delivery phase:
-
-- Supported the Scrum team while simultaneously working on eCommerce definition.
-- Collaborated with the Business Architect to conduct **Story Storming** workshops, producing:
-    - High-level documentation for eCommerce, including recommended software.
-    - Domains with their responsibilities and boundaries.
-    - Architecture diagrams, high-level requirements, and business process definitions.
-
-My role in this project was as a **Solution Architect**.
+Role: **Solution Architect**.
 
 **Technologies & Tools:**
 

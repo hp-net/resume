@@ -1,4 +1,4 @@
 ---
 
 ---
-**X-Kom** - architecture audit.
+**X-Kom** - Tender participation for an architecture audit.

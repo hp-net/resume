@@ -9,7 +9,7 @@ print: false
 logo: logo-github
 ---
 
-This is a resume that you are looking at.
+Personal resume site built for clarity, maintainability, and fast iteration.
 
 **Technologies & Tools:**
 

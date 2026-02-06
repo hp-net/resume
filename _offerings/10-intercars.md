@@ -1,4 +1,4 @@
 ---
 
 ---
-**InterCars** - new modern retail store based on Oracle ATG.
+**InterCars** - Tender participation for a modern retail store based on Oracle ATG.

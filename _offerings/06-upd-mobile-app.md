@@ -1,4 +1,4 @@
 ---
 
 ---
-**UPC Mobile App** - Selfcare mobile app for telco clients (similar to Orange Flex).
+**UPC Mobile App** - Tender participation for a telco self-care mobile app (similar to Orange Flex).

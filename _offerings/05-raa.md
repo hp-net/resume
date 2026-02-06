@@ -1,4 +1,5 @@
 ---
 
 ---
-**RAA (Ralph Appelbaum Associates) - Museum app** - online portal for storytelling and enriching museum expositions.
+**RAA (Ralph Appelbaum Associates) - Museum app** - Tender participation for an online storytelling
+portal to enrich museum exhibitions.

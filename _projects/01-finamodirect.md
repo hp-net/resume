@@ -6,11 +6,10 @@ sub_title: Finamo
 print: false
 ---
 
-Developed a back-office web application integrated with the Finamo insurance store. The application
-supported back-office consultants in verifying and processing insurance orders.
+Built a back-office web application integrated with the Finamo insurance store to support order
+verification and processing.
 
-I was fully responsible for designing and implementing the entire solution, including the UI,
-storage, integration, and business logic.
+Owned the full solution: UI, storage, integrations, and business logic.
 
 **Technologies & Tools:**
 

@@ -1,12 +1,12 @@
 ---
 title: Finamo
-sub_title: Full Stack Developer
+sub_title: Full Stack Developer - End-to-end delivery
 from: June 2009
 to: February 2010
 print: false
 ---
 
-Independently created a web application while working remotely and maintaining direct communication
-with the client.
+Delivered a web application end to end while working remotely and collaborating directly with the
+client.
 
-Handled the entire delivery lifecycle, including design, development, and deployment.  
+Owned the full delivery lifecycle: design, development, and deployment.

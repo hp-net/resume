@@ -18,15 +18,37 @@ a:hover {
 }
 
 .layout .details .logo {
-    width: 40%;
+    width: 100%;
     margin-bottom: 0.75rem
 }
 
 @media screen and (max-width: 767px) {
     .layout .details .logo {
-        width: 30%;
+        width: 40%;
         margin: 0 auto;
         margin-bottom: 0.75rem;
+    }
+}
+
+.layout .details .logo img {
+    display: block;
+    height: 48px;
+    max-width: 140px;
+    object-fit: contain;
+    width: auto;
+}
+
+@media screen and (min-width: 768px) {
+    .layout .details {
+        max-width: 26%;
+        padding-right: 0.5rem;
+        width: 26%;
+    }
+
+    .layout .content {
+        max-width: 74%;
+        padding-left: 1.25rem;
+        width: 74%;
     }
 }
 

@@ -1,4 +1,4 @@
 ---
 
 ---
-**Nationale Nederlanden Mobile App** - insurance store. 
+**Nationale Nederlanden Mobile App** - Tender participation for an insurance mobile store.
